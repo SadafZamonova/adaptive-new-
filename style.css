@@ -1,7 +1,6 @@
 .fon {
     position: absolute;
     width: 47.5vw;
-    height: 152.5%;
     left: 55%;
     top: 15%;
     z-index: -1;
@@ -70,13 +69,7 @@ h1 {
         display: none;
     }
 
-    .container {
-        height: 30vh;
-    }
-
-    .center {
-        height: 30vh;
-    }
+   
 }
 
 
